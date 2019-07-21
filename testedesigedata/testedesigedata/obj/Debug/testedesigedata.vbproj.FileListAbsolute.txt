@@ -1,0 +1,13 @@
+D:\2cp 2018-2019\projet\testedesigedata\testedesigedata\bin\Debug\testedesigedata.exe.config
+D:\2cp 2018-2019\projet\testedesigedata\testedesigedata\bin\Debug\testedesigedata.exe
+D:\2cp 2018-2019\projet\testedesigedata\testedesigedata\bin\Debug\testedesigedata.pdb
+D:\2cp 2018-2019\projet\testedesigedata\testedesigedata\bin\Debug\testedesigedata.xml
+D:\2cp 2018-2019\projet\testedesigedata\testedesigedata\obj\Debug\testedesigedata.vbprojAssemblyReference.cache
+D:\2cp 2018-2019\projet\testedesigedata\testedesigedata\obj\Debug\testedesigedata.Form1.resources
+D:\2cp 2018-2019\projet\testedesigedata\testedesigedata\obj\Debug\testedesigedata.Resources.resources
+D:\2cp 2018-2019\projet\testedesigedata\testedesigedata\obj\Debug\testedesigedata.vbproj.GenerateResource.cache
+D:\2cp 2018-2019\projet\testedesigedata\testedesigedata\obj\Debug\testedesigedata.vbproj.CoreCompileInputs.cache
+D:\2cp 2018-2019\projet\testedesigedata\testedesigedata\obj\Debug\testedesigedata.exe
+D:\2cp 2018-2019\projet\testedesigedata\testedesigedata\obj\Debug\testedesigedata.xml
+D:\2cp 2018-2019\projet\testedesigedata\testedesigedata\obj\Debug\testedesigedata.pdb
+D:\2cp 2018-2019\projet\testedesigedata\testedesigedata\obj\Debug\testedesigedata.Form2.resources
